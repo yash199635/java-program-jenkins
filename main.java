@@ -10,6 +10,8 @@ public class main {
         System.out.println("JJ");
         System.out.println("ss");
         System.out.println("kk");
+        Student student = new Student();
+        student.sayHello();
     
         
     }
