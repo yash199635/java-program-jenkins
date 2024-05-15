@@ -9,6 +9,7 @@ public class main {
         System.out.println(new Date());
         System.out.println("JJ");
         System.out.println("ss");
+        System.out.println("kk");
     
         
     }
